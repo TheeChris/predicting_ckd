@@ -1,0 +1,8 @@
+# Environments
+.env
+
+# Subdirectories
+data/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
